@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Heracles GYM - Login</title>
+    <title>Heracles GYM - Inicio Sesión</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{asset('sources/vendor/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">
